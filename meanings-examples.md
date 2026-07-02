@@ -1,14 +1,13 @@
 # Vocabulary & Communication Started 2026 Junly
 
-| **Word** | **Part of Speech** | **Meaning (Simple)** | **Simple Example** |
-|-----------|--------------------|----------------------|--------------------|
-| despite | Preposition | Even though; without being affected by something. | Despite the rain, we played cricket. |
-| tensions | Noun (Plural) | Feelings of stress, conflict, or disagreement. | There are tensions between the two teams. |
-| instability | Noun | A situation that is not stable or keeps changing. | Political instability affected the country. |
-| stubborn | Adjective | Not willing to change your opinion or decision. | My brother is stubborn and never gives up. |
-| inflation | Noun | A general increase in the prices of goods and services. | Inflation has made food more expensive. |
-| climbed | Verb (Past Tense) | Went up or increased. | The temperature climbed to 40°C yesterday. |
-| alongside | Preposition / Adverb | Next to; together with. | She worked alongside her manager on the project. |
-| pivotal | Adjective | Extremely important; playing a key role in something. | Communication played a pivotal role in the project's success. |
-| vital | Adjective | Absolutely necessary or essential. | Regular practice is vital for improving your English. |
-
+| **Word** | **Part of Speech** | **Meaning (Simple)** | **Simple Example** | **Synonyms** | **Antonyms** | **Common Collocations** | **Business/Technical Example** | **My Own Sentence** |
+|-----------|--------------------|----------------------|--------------------|--------------|--------------|-------------------------|--------------------------------|---------------------|
+| despite | Preposition | Even though; without being affected by something. | Despite the rain, we played cricket. | regardless of, notwithstanding | because of, due to | despite challenges, despite issues, despite delays | Despite heavy traffic, the microservice maintained low latency. | |
+| tensions | Noun (Plural) | Feelings of stress, conflict, or disagreement. | There are tensions between the two teams. | conflict, friction, strain | harmony, peace, agreement | political tensions, rising tensions, workplace tensions | Tensions between development and operations delayed the release. | |
+| instability | Noun | A situation that is not stable or keeps changing. | Political instability affected the country. | uncertainty, volatility, inconsistency | stability, certainty | economic instability, political instability, market instability | Infrastructure instability caused intermittent production failures. | |
+| stubborn | Adjective | Not willing to change your opinion or decision. | My brother is stubborn and never gives up. | inflexible, obstinate, determined | flexible, open-minded, adaptable | stubborn attitude, stubborn problem, stubborn behavior | We had a stubborn production bug that required deep debugging. | |
+| inflation | Noun | A general increase in the prices of goods and services. | Inflation has made food more expensive. | price rise, cost increase | deflation | inflation rate, high inflation, inflation pressures | Inflation increased the company's cloud infrastructure costs. | |
+| climbed | Verb (Past Tense) | Went up or increased. | The temperature climbed to 40°C yesterday. | increased, rose, grew | decreased, dropped, declined | climbed sharply, climbed steadily, climbed rapidly | API traffic climbed to one million requests per minute. | |
+| alongside | Preposition / Adverb | Next to; together with. | She worked alongside her manager on the project. | together with, beside, with | apart from, separately | work alongside, develop alongside, grow alongside | Engineers worked alongside product managers to finalize the architecture. | |
+| pivotal | Adjective | Extremely important; playing a key role in something. | Communication played a pivotal role in the project's success. | crucial, critical, key, significant | minor, insignificant, trivial | pivotal role, pivotal decision, pivotal moment | Kafka plays a pivotal role in our event-driven architecture. | |
+| vital | Adjective | Absolutely necessary or essential. | Regular practice is vital for improving your English. | essential, crucial, necessary, indispensable | optional, unnecessary, insignificant | vital information, vital component, vital skill | Monitoring is vital for maintaining production reliability. | |
