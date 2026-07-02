@@ -11,3 +11,6 @@
 | alongside | Preposition / Adverb | Next to; together with. | She worked alongside her manager on the project. | together with, beside, with | apart from, separately | work alongside, develop alongside, grow alongside | Engineers worked alongside product managers to finalize the architecture. | |
 | pivotal | Adjective | Extremely important; playing a key role in something. | Communication played a pivotal role in the project's success. | crucial, critical, key, significant | minor, insignificant, trivial | pivotal role, pivotal decision, pivotal moment | Kafka plays a pivotal role in our event-driven architecture. | |
 | vital | Adjective | Absolutely necessary or essential. | Regular practice is vital for improving your English. | essential, crucial, necessary, indispensable | optional, unnecessary, insignificant | vital information, vital component, vital skill | Monitoring is vital for maintaining production reliability. | |
+
+
+
