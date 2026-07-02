@@ -1,6 +1,5 @@
 # Vocabulary & Communication Started 2026 Junly
 
-# Vocabulary & Communication Started - July 2026
 
 | **Word** | **Part of Speech** | **Meaning (Simple + Similar Words)** | **Simple Example** | **Common Collocations** | **Business/Technical Example** | **My Own Sentence** |
 |-----------|--------------------|---------------------------------------|--------------------|-------------------------|--------------------------------|---------------------|
